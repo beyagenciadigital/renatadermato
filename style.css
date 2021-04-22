@@ -335,6 +335,7 @@ font-weight: 600; margin-bottom: 2px; letter-spacing: 4px;
     }
     .menu-btn i.active:before{
         content: "\f00d";
+        color: #4879a5;
     }
     .navbar .menu{
         position: fixed;
